@@ -1,2 +1,18 @@
-weather_api_key = "1dfe597b23edbe5bbf153698f7245a33"
-g_key = "AIzaSyDgp6icJClK2okG9MdtNxyeRENHgXt-7xo"
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
